@@ -2,11 +2,4 @@ streamlit
 pandas
 numpy
 scikit-learn
-ydata_profiling
-sklearn
-matplotlib
-seaborn
-fastapi
-uvicorn
 joblib
-pydantic
