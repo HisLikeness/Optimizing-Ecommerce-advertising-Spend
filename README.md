@@ -20,17 +20,17 @@ Optimizing advertising spend is crucial for maximizing return on investment (ROI
 5. Reduced costs
 
 ##### The key observations from the analysis the correlation result:
-Strong Positive Correlations
+###### Strong Positive Correlations
 1. AOV and Revenue: Highly correlated (0.908), indicating that Average Order Value is a strong driver of Revenue.
 2. ROAS and Revenue: Strongly correlated (0.669), suggesting that Return on Ad Spend is a key factor in driving Revenue.
 3. Clicks and Conversion_Rate: Highly correlated (0.697), indicating that Clicks are a strong predictor of Conversion Rates.
-Strong Negative Correlations
+###### Strong Negative Correlations
 1. Ad_Spend and ROAS: Strongly negatively correlated (-0.700), suggesting that increasing Ad Spend may not always lead to higher Return on Ad Spend.
 2. AOV and Units_Sold: Negatively correlated (-0.381), indicating that higher Average Order Values may be associated with lower Units Sold.
-Weak Correlations
+###### Weak Correlations
 1. Category and other variables: Most correlations with Category are weak, suggesting that Category may not be a strong driver of other variables.
 2. Region and other variables: Most correlations with Region are weak, indicating that Region may not have a significant impact on other variables.
-Insights and Recommendations:
+###### Insights and Recommendations:
 1. Optimize Ad Spend: Given the negative correlation between Ad Spend and ROAS, it's essential to optimize Ad Spend to maximize Return on Ad Spend.
 2. Focus on AOV: Average Order Value is a strong driver of Revenue, so focusing on increasing AOV could lead to significant revenue growth.
 3. Improve Conversion Rates: Given the strong correlation between Clicks and Conversion Rates, improving Conversion Rates could lead to increased revenue.
